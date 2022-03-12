@@ -50,3 +50,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# MS Microsoft Office temporal files
+~$*
+
+# MS Open Office temporal files
+.~lock*
